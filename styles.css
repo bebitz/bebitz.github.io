@@ -8,7 +8,7 @@ body {
     -webkit-background-size:cover;
     -moz-background-size:cover;
     background-size:cover;
-    background-color: white;
+    background-color: black;
     font-family: Montserrat, sans-serif;
 }
 
@@ -34,4 +34,22 @@ body {
 
 h5{
     color: white;
+}
+
+.content-m{
+       margin-top: 10vh;
+    }
+
+
+
+@media (max-width:800px)  { 
+    .content-m{
+       margin-top: 0vh;
+    }
+    .text{
+        font-size: .6rem;
+    }
+    h5{
+        font-size: 1rem;
+    }
 }
