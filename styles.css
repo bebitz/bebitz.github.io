@@ -13,13 +13,13 @@ body {
 }
 
 .text {
-    font-size: .9rem;
+    font-size: .8rem;
     color: white;
     font-weight: 400;    
 }
 
 .text-big {
-    font-size: 1.4rem;
+    font-size: 1rem;
     color: white;
     font-weight: 300;    
 }
@@ -32,32 +32,6 @@ body {
     filter: alpha(opacity=100);
 }
 
-
-
-
-.callout {
-  /*position: relative;
-    border-radius: 5px;*/
-    text-align: center;
-    background: white;
-    border: 1px lightgray solid;
-    opacity: 1;
-    font-family: Montserrat;
-    font-size: .7rem;
-    font-weight: 400;
-    color: dimgray;
-}
-/*
-.by-webcorpco {
-  display: inline-block;
-  width: 95px;
-  height: 22px;
-  margin: -2px 0 0 4px;
-  vertical-align: middle;
-}*/
-
-
-h3{
+h5{
     color: white;
-
 }
